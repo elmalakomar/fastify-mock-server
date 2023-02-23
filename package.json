@@ -1,0 +1,24 @@
+{
+  "name": "fastify-mock-server",
+  "version": "1.0.0",
+  "description": "Mock server user for debugging written with Fastify",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmalakomar/fastify-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmalakomar/fastify-mock-server/issues"
+  },
+  "homepage": "https://github.com/elmalakomar/fastify-mock-server#readme",
+  "dependencies": {
+    "@fastify/formbody": "^7.4.0",
+    "fastify": "^4.13.0"
+  }
+}
